@@ -5,7 +5,7 @@ It's a new branch named development
 test branch
 
 I do not know what it is. Now,I get it.
-So what it is?
+So what it is?   musecui1 commit.
 
 Now we learn branch manage.
 
