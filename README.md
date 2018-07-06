@@ -6,3 +6,6 @@ test branch
 
 I do not know what it is. Now,I get it.
 So what it is?
+
+Now we learn branch manage.
+
